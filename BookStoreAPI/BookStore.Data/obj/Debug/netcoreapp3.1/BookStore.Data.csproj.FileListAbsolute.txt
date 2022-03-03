@@ -1,0 +1,9 @@
+C:\_CSharpWebAPI\_core\project\Core5\05\BookStoreAPI\BookStore.Data\bin\Debug\netcoreapp3.1\BookStore.Data.deps.json
+C:\_CSharpWebAPI\_core\project\Core5\05\BookStoreAPI\BookStore.Data\bin\Debug\netcoreapp3.1\BookStore.Data.dll
+C:\_CSharpWebAPI\_core\project\Core5\05\BookStoreAPI\BookStore.Data\bin\Debug\netcoreapp3.1\BookStore.Data.pdb
+C:\_CSharpWebAPI\_core\project\Core5\05\BookStoreAPI\BookStore.Data\obj\Debug\netcoreapp3.1\BookStore.Data.AssemblyInfoInputs.cache
+C:\_CSharpWebAPI\_core\project\Core5\05\BookStoreAPI\BookStore.Data\obj\Debug\netcoreapp3.1\BookStore.Data.AssemblyInfo.cs
+C:\_CSharpWebAPI\_core\project\Core5\05\BookStoreAPI\BookStore.Data\obj\Debug\netcoreapp3.1\BookStore.Data.csproj.CoreCompileInputs.cache
+C:\_CSharpWebAPI\_core\project\Core5\05\BookStoreAPI\BookStore.Data\obj\Debug\netcoreapp3.1\BookStore.Data.dll
+C:\_CSharpWebAPI\_core\project\Core5\05\BookStoreAPI\BookStore.Data\obj\Debug\netcoreapp3.1\BookStore.Data.pdb
+C:\_CSharpWebAPI\_core\project\Core5\05\BookStoreAPI\BookStore.Data\obj\Debug\netcoreapp3.1\BookStore.Data.csprojAssemblyReference.cache

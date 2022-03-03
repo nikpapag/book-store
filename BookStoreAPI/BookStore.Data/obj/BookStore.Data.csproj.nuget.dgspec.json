@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nikp/dot-net-delete-me/BookStoreAPI/BookStore.Data/BookStore.Data.csproj": {}
+  },
+  "projects": {
+    "/Users/nikp/dot-net-delete-me/BookStoreAPI/BookStore.Data/BookStore.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nikp/dot-net-delete-me/BookStoreAPI/BookStore.Data/BookStore.Data.csproj",
+        "projectName": "BookStore.Data",
+        "projectPath": "/Users/nikp/dot-net-delete-me/BookStoreAPI/BookStore.Data/BookStore.Data.csproj",
+        "packagesPath": "/Users/nikp/.nuget/packages/",
+        "outputPath": "/Users/nikp/dot-net-delete-me/BookStoreAPI/BookStore.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nikp/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
