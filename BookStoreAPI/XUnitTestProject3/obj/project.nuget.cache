@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "HMUvRYUSkm4dC+h7l5yYy4AzW/b4KCOzRlAOnGHAiLGjl7U8vnHyA9oULGViFDIuSKj+eFOhOIS285S6kChayg==",
+  "dgSpecHash": "ukdSSV+5lBj4C4hMS5U9sOS3go/lgCaMmyFJp5YTSWRQ9X9r/E0vCuSAx/KVSW4L1df2aZM/iIWljATUf60xAA==",
   "success": true,
-  "projectFilePath": "/Users/nikp/dot-net-delete-me/BookStoreAPI/XUnitTestProject3/XUnitTestProject3.csproj",
+  "projectFilePath": "/Users/nikp/book-store/book-store/BookStoreAPI/XUnitTestProject3/XUnitTestProject3.csproj",
   "expectedPackageFiles": [
     "/Users/nikp/.nuget/packages/castle.core/4.4.0/castle.core.4.4.0.nupkg.sha512",
     "/Users/nikp/.nuget/packages/coverlet.collector/1.3.0/coverlet.collector.1.3.0.nupkg.sha512",
+    "/Users/nikp/.nuget/packages/junitxml.testlogger/3.0.110/junitxml.testlogger.3.0.110.nupkg.sha512",
     "/Users/nikp/.nuget/packages/microsoft.aspnetcore.cors/2.2.0/microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "/Users/nikp/.nuget/packages/microsoft.aspnetcore.http.abstractions/2.2.0/microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "/Users/nikp/.nuget/packages/microsoft.aspnetcore.http.extensions/2.2.0/microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ebH2GHBAJ+y8wY9+bM0PT7wPrUHCxZ6EuIT28GWyICddDOH1FD71PUdnP5uIoy3ZFtX1cp32J7w2+N+wLHq9dQ==",
+  "dgSpecHash": "5yrFtFN+/z+73g5KKgBUo0wmrFkhUr+nx5yDhov/yKHqcLMSsyjUk8QmDXwhPatf2cUl1Eadnfy9XK5HrlfqPQ==",
   "success": true,
-  "projectFilePath": "/Users/nikp/dot-net-delete-me/BookStoreAPI/BookStore.Data/BookStore.Data.csproj",
+  "projectFilePath": "/Users/nikp/book-store/book-store/BookStoreAPI/BookStore.Data/BookStore.Data.csproj",
   "expectedPackageFiles": [
     "/Users/nikp/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/nikp/.nuget/packages/microsoft.data.sqlclient/2.0.1/microsoft.data.sqlclient.2.0.1.nupkg.sha512",

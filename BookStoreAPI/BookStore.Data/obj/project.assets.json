@@ -5658,14 +5658,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nikp/dot-net-delete-me/BookStoreAPI/BookStore.Data/BookStore.Data.csproj",
+      "projectUniqueName": "/Users/nikp/book-store/book-store/BookStoreAPI/BookStore.Data/BookStore.Data.csproj",
       "projectName": "BookStore.Data",
-      "projectPath": "/Users/nikp/dot-net-delete-me/BookStoreAPI/BookStore.Data/BookStore.Data.csproj",
+      "projectPath": "/Users/nikp/book-store/book-store/BookStoreAPI/BookStore.Data/BookStore.Data.csproj",
       "packagesPath": "/Users/nikp/.nuget/packages/",
-      "outputPath": "/Users/nikp/dot-net-delete-me/BookStoreAPI/BookStore.Data/obj/",
+      "outputPath": "/Users/nikp/book-store/book-store/BookStoreAPI/BookStore.Data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/nikp/.nuget/NuGet/NuGet.Config"
+        "/Users/nikp/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

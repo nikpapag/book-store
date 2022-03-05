@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3XANVhLe0Rna/lDh/HjaOVCGhXyqKbaDRVZ/ONz3TCvUOenHCSLT6vdqMvb/x2HlICHc1f9EABL9hv+n6bQFIA==",
+  "dgSpecHash": "3YxAzt71lAloVYccWqgQaZ4EHJhOrvYAa+szXj5TwaC6fg2Yvyx7x9xj2wQfoJt6ysNAuJ3UVJ035OoPfqH82A==",
   "success": true,
-  "projectFilePath": "/Users/nikp/dot-net-delete-me/BookStoreAPI/BooksUI/BooksUI.csproj",
+  "projectFilePath": "/Users/nikp/book-store/book-store/BookStoreAPI/BooksUI/BooksUI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

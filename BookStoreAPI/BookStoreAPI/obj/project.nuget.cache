@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IK3k8drR5WizFPtuoluXDT646/BKS0WJNhefGAGmYjkFypiIS7bda8E/55CdUfDDt5CzEp+8s4USuDePfLFGoQ==",
+  "dgSpecHash": "IlX4wluhUMrROrI/dbsyVbqH5SBn2HkRUvjXgH26IODew86R+bJIVKCdL91JPE4cwUVdWp7W/6PKPOkmsp9eHQ==",
   "success": true,
-  "projectFilePath": "/Users/nikp/dot-net-delete-me/BookStoreAPI/BookStoreAPI/BookStoreAPI.csproj",
+  "projectFilePath": "/Users/nikp/book-store/book-store/BookStoreAPI/BookStoreAPI/BookStoreAPI.csproj",
   "expectedPackageFiles": [
     "/Users/nikp/.nuget/packages/microsoft.aspnetcore.cors/2.2.0/microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "/Users/nikp/.nuget/packages/microsoft.aspnetcore.http.abstractions/2.2.0/microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

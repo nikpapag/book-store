@@ -34,3 +34,15 @@ C:/_CSharpWebAPI/_core/project/Core5/05/BookStoreAPI/BookStore.Data/obj/Debug/ne
 /Users/nikp/dot-net-delete-me/BookStoreAPI/BookStore.Data/obj/Debug/net5.0/BookStore.Data.dll
 /Users/nikp/dot-net-delete-me/BookStoreAPI/BookStore.Data/obj/Debug/net5.0/ref/BookStore.Data.dll
 /Users/nikp/dot-net-delete-me/BookStoreAPI/BookStore.Data/obj/Debug/net5.0/BookStore.Data.pdb
+/Users/nikp/book-store/book-store/BookStoreAPI/BookStore.Data/bin/Debug/net5.0/BookStore.Data.deps.json
+/Users/nikp/book-store/book-store/BookStoreAPI/BookStore.Data/bin/Debug/net5.0/BookStore.Data.dll
+/Users/nikp/book-store/book-store/BookStoreAPI/BookStore.Data/bin/Debug/net5.0/ref/BookStore.Data.dll
+/Users/nikp/book-store/book-store/BookStoreAPI/BookStore.Data/bin/Debug/net5.0/BookStore.Data.pdb
+/Users/nikp/book-store/book-store/BookStoreAPI/BookStore.Data/obj/Debug/net5.0/BookStore.Data.csproj.AssemblyReference.cache
+/Users/nikp/book-store/book-store/BookStoreAPI/BookStore.Data/obj/Debug/net5.0/BookStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikp/book-store/book-store/BookStoreAPI/BookStore.Data/obj/Debug/net5.0/BookStore.Data.AssemblyInfoInputs.cache
+/Users/nikp/book-store/book-store/BookStoreAPI/BookStore.Data/obj/Debug/net5.0/BookStore.Data.AssemblyInfo.cs
+/Users/nikp/book-store/book-store/BookStoreAPI/BookStore.Data/obj/Debug/net5.0/BookStore.Data.csproj.CoreCompileInputs.cache
+/Users/nikp/book-store/book-store/BookStoreAPI/BookStore.Data/obj/Debug/net5.0/BookStore.Data.dll
+/Users/nikp/book-store/book-store/BookStoreAPI/BookStore.Data/obj/Debug/net5.0/ref/BookStore.Data.dll
+/Users/nikp/book-store/book-store/BookStoreAPI/BookStore.Data/obj/Debug/net5.0/BookStore.Data.pdb

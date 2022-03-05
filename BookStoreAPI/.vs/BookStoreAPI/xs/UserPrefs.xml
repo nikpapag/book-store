@@ -8,11 +8,13 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="BookStoreAPI" expanded="True" selected="True">
+          <Node name="BookStoreAPI" expanded="True">
             <Node name="BookStore.Data" expanded="True">
               <Node name="Repositories" expanded="True" />
             </Node>
             <Node name="BookStoreAPI" expanded="True" />
+            <Node name="BooksUI" expanded="True" />
+            <Node name="XUnitTestProject3" selected="True" />
           </Node>
         </State>
       </Pad>

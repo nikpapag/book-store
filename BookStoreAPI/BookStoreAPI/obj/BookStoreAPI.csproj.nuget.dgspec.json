@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nikp/dot-net-delete-me/BookStoreAPI/BookStoreAPI/BookStoreAPI.csproj": {}
+    "/Users/nikp/book-store/book-store/BookStoreAPI/BookStoreAPI/BookStoreAPI.csproj": {}
   },
   "projects": {
-    "/Users/nikp/dot-net-delete-me/BookStoreAPI/BookStore.Data/BookStore.Data.csproj": {
+    "/Users/nikp/book-store/book-store/BookStoreAPI/BookStore.Data/BookStore.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nikp/dot-net-delete-me/BookStoreAPI/BookStore.Data/BookStore.Data.csproj",
+        "projectUniqueName": "/Users/nikp/book-store/book-store/BookStoreAPI/BookStore.Data/BookStore.Data.csproj",
         "projectName": "BookStore.Data",
-        "projectPath": "/Users/nikp/dot-net-delete-me/BookStoreAPI/BookStore.Data/BookStore.Data.csproj",
+        "projectPath": "/Users/nikp/book-store/book-store/BookStoreAPI/BookStore.Data/BookStore.Data.csproj",
         "packagesPath": "/Users/nikp/.nuget/packages/",
-        "outputPath": "/Users/nikp/dot-net-delete-me/BookStoreAPI/BookStore.Data/obj/",
+        "outputPath": "/Users/nikp/book-store/book-store/BookStoreAPI/BookStore.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nikp/.nuget/NuGet/NuGet.Config"
+          "/Users/nikp/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -66,17 +66,17 @@
         }
       }
     },
-    "/Users/nikp/dot-net-delete-me/BookStoreAPI/BookStoreAPI/BookStoreAPI.csproj": {
+    "/Users/nikp/book-store/book-store/BookStoreAPI/BookStoreAPI/BookStoreAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nikp/dot-net-delete-me/BookStoreAPI/BookStoreAPI/BookStoreAPI.csproj",
+        "projectUniqueName": "/Users/nikp/book-store/book-store/BookStoreAPI/BookStoreAPI/BookStoreAPI.csproj",
         "projectName": "BookStoreAPI",
-        "projectPath": "/Users/nikp/dot-net-delete-me/BookStoreAPI/BookStoreAPI/BookStoreAPI.csproj",
+        "projectPath": "/Users/nikp/book-store/book-store/BookStoreAPI/BookStoreAPI/BookStoreAPI.csproj",
         "packagesPath": "/Users/nikp/.nuget/packages/",
-        "outputPath": "/Users/nikp/dot-net-delete-me/BookStoreAPI/BookStoreAPI/obj/",
+        "outputPath": "/Users/nikp/book-store/book-store/BookStoreAPI/BookStoreAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nikp/.nuget/NuGet/NuGet.Config"
+          "/Users/nikp/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -88,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/nikp/dot-net-delete-me/BookStoreAPI/BookStore.Data/BookStore.Data.csproj": {
-                "projectPath": "/Users/nikp/dot-net-delete-me/BookStoreAPI/BookStore.Data/BookStore.Data.csproj"
+              "/Users/nikp/book-store/book-store/BookStoreAPI/BookStore.Data/BookStore.Data.csproj": {
+                "projectPath": "/Users/nikp/book-store/book-store/BookStoreAPI/BookStore.Data/BookStore.Data.csproj"
               }
             }
           }

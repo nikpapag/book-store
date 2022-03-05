@@ -13,14 +13,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nikp/dot-net-delete-me/BookStoreAPI/BooksUI/BooksUI.csproj",
+      "projectUniqueName": "/Users/nikp/book-store/book-store/BookStoreAPI/BooksUI/BooksUI.csproj",
       "projectName": "BooksUI",
-      "projectPath": "/Users/nikp/dot-net-delete-me/BookStoreAPI/BooksUI/BooksUI.csproj",
+      "projectPath": "/Users/nikp/book-store/book-store/BookStoreAPI/BooksUI/BooksUI.csproj",
       "packagesPath": "/Users/nikp/.nuget/packages/",
-      "outputPath": "/Users/nikp/dot-net-delete-me/BookStoreAPI/BooksUI/obj/",
+      "outputPath": "/Users/nikp/book-store/book-store/BookStoreAPI/BooksUI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/nikp/.nuget/NuGet/NuGet.Config"
+        "/Users/nikp/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

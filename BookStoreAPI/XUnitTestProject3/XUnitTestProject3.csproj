@@ -18,6 +18,7 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
+    <PackageReference Include="JunitXml.TestLogger" Version="3.0.110" />
   </ItemGroup>
 
   <ItemGroup>
@@ -25,4 +26,7 @@
     <ProjectReference Include="..\BookStoreAPI\BookStoreAPI.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="JunitXml.TestLogger" />
+  </ItemGroup>
 </Project>
